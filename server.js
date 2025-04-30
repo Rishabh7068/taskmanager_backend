@@ -27,7 +27,7 @@ const PORT = process.env.PORT ;
 
 const allowedOrigins = [
   'http://localhost:5173',
-   'https://taskmanager-frontend-rho.vercel.app',
+   'https://taskmanager-frontend-two.vercel.app',
     'https://taskmanager-frontend-9q6t9qida-rishabh7068s-projects.vercel.app',
     'https://taskmanager-frontend-git-main-rishabh7068s-projects.vercel.app',
 ];
