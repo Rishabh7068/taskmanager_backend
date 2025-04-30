@@ -26,7 +26,8 @@ connectDB();
 const PORT = process.env.PORT ;
 
 const allowedOrigins = [
-  'http://localhost:5173'
+  'http://localhost:5173',
+   'https://taskmanager-frontend-rho.vercel.app/'
 ];
 
 const corsOptions = {
